@@ -2,7 +2,7 @@
 
 <img src="OSS image.png" width= "300" height= "250">
 
-**오픈소스 소프트웨어, OSS(Open Source Software)**
+**오픈소스 소프트웨어(Open Source Software)**
 는 소스 코드를 공개하여 누구나 코드를 확인 · 사용이 가능한 소프트웨어이다
 
 ---
