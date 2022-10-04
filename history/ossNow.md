@@ -17,29 +17,29 @@
 <h2>3-2. 주요 OSS 사례</h2>
 
 <h3>1. Python</h3>
-
-![파이썬](python.png)
+ 
+<img src="python.png" width= "300" height= "250">
 > 1991년 발표된 프로그래밍 언어<br>
 > 몇몇 예외를 제외하고서는 대부분 라이브러리를 오픈 소스로 지원함<br>
 > 최근 상승세인 대표적인 프로그래밍 언어임
 
 <h3>2. HTML</h3>
 
-![HTML](html.jpg)
+<img src="html.jpg" width= "300" height= "250">
 > 대표적인 마크업 언어<br>
 > 인터넷에서 우클릭을 통한 HTML의 소스 보기가 가능<br>
 > 현재는 HTML5가 웹 표준으로 사용됨
 
 <h3>3. 리눅스</h3>
 
-![Linux](리눅스.png)
+<img src="리눅스.png" width= "300" height= "250">
 > 유닉스에서 파생된 운영체제<br>
 > 다양한 개발자들이 기능, 성능을 추가 가능한 '대중성'과 '편의성'을 갖춤<br>
 > 다양한 배포판 (레드햇, 우분투 등) 존재
 
 <h3>4. Git</h3>
 
-![Git](git.png)
+ <img src="git.png" width= "300" height= "250">
 > 리누스 토발스가 개발한 분산형 버전 관리 프로그램<br>
 > 오픈 소스 시대에 최적화된 저장소로 평가됨<br>
 > Git을 호스팅하는 GitHub는 현재 오픈 소스의 중심지임
