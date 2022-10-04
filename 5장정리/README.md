@@ -2,7 +2,7 @@
 
 <h1>목록</h1>
 
-- [5.1 서버](https://github.com/ossQB/5-qb/blob/main/51.md)
+- [5.1 서버](https://github.com/ossQB/5-qb/blob/main/5%EC%9E%A5%EC%A0%95%EB%A6%AC/51.md)
   - [*5.1.1 협업 저장소*](https://github.com/ossQB/5-qb/blob/main/51.md#511-%ED%98%91%EC%97%85-%EC%A0%80%EC%9E%A5%EC%86%8C)
   - [*5.1.2 연속된 작업*](https://github.com/ossQB/5-qb/blob/main/51.md#512-%EC%97%B0%EC%86%8D%EB%90%9C-%EC%9E%91%EC%97%85)
   - [*5.1.3 새 멤버*](https://github.com/ossQB/5-qb/blob/main/51.md#513-%EC%83%88-%EB%A9%A4%EB%B2%84)
