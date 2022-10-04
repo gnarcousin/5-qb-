@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46246580-6186-4374-ba75-599a3742b762" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ossNow.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/OSS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
