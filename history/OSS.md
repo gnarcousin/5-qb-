@@ -1,7 +1,7 @@
 <h1>1. 오픈소스 소프트웨어란?</h1>
 
 <h2>1-1. 개요</h2>
-<img src="OSS image.png" width= "300" height= "250">
+<img src="https://user-images.githubusercontent.com/114467413/201941801-65e387d9-e4e1-441f-897a-3ded536aeabd.png" width= "300" height= "250">
 
 **오픈소스 소프트웨어(Open Source Software)**
 <pre>
