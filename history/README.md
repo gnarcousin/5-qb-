@@ -1,6 +1,6 @@
 <h1>오픈소스 소프트웨어의 역사와 현황</h1>
 
-![배경](background.jpg)
+![background](https://user-images.githubusercontent.com/114467413/201941989-2385f77f-c63d-4f7e-9aa0-54b54ba49448.jpg)
 
 ---
 
